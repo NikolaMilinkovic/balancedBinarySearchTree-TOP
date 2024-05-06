@@ -20,10 +20,10 @@ In this repo you will find my implementation of BST.
 ## 💻 Built With
 ![javascript](https://skillicons.dev/icons?i=js&perline=10)
 
-# Other functions
+## Other functions
 - sortArray(arr);
 - removeDuplicatesInArr(arr);
 - buildTree(array, start, end);
 
-# Provided by curriculum
+## Provided by curriculum
 - prettyPrint(node, prefix, isLeft);
