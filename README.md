@@ -4,7 +4,6 @@ A binary search tree (BST) is a tree data structure where each node has at most 
 In this repo you will find my implementation of BST.
 
 ## Methods
-
 | Method | Description |
 | ------ | ----------- |
 | Insert(value) | Insert new value in BST |
