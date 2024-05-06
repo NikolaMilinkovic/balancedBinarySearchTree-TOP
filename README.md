@@ -4,18 +4,21 @@ A binary search tree (BST) is a tree data structure where each node has at most 
 In this repo you will find my implementation of BST.
 
 ## Methods
-- Insert(value)______[Insert new value in BST]
-- Remove(value)______[Remove value from BST]
-- find(value)________[Find a value in BST]
-- getSmallest()______[Returns smallest value in BST]
-- levelOrder()_______[breadth-first tree traversal]
-- inOrder()__________[Inorder tree traversal]
-- preOrder()_________[Preorder tree traversal]
-- postOrder()________[Postorder tree traversal]
-- height()___________[Returns the height of BST]
-- depth(value)_______[Returns the given node depth]
-- isBalanced()_______[Check BST balance: true/false]
-- rebalance()________[Rebalances unbalanced BST]
+
+| Method | Description |
+| ------ | ----------- |
+| Insert(value) | Insert new value in BST |
+| Remove(value) | Remove value from BST |
+| find(value) | Find a value in BST |
+| getSmallest() | Returns smallest value in BST |
+| levelOrder() | Breadth-first tree traversal |
+| inOrder() | Inorder tree traversal |
+| preOrder() | Preorder tree traversal |
+| postOrder() | Postorder tree traversal |
+| height() | Returns the height of BST |
+| depth(value) | Returns the given node depth |
+| isBalanced() | Check BST balance: true/false |
+| rebalance() | Rebalances unbalanced BST |
 
 ## 💻 Built With
 ![javascript](https://skillicons.dev/icons?i=js&perline=10)
